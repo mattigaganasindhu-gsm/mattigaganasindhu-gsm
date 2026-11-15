@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Gaganasindhu 👋
 
-<!--
-**mattigaganasindhu-gsm/mattigaganasindhu-gsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data analyst** focused on marketing and business analytics: attribution, A/B testing, forecasting and self-service BI.
 
-Here are some ideas to get you started:
+- 💼 Marketing Analyst at **Walmart** (retail media, e-commerce); previously Data Analyst at **Capgemini**
+- 🎓 MS Computer Science, University of Alabama at Birmingham
+- 🔎 Open to **Data Analyst / Marketing Data Analyst / Business Analyst** roles
+- 🌐 Portfolio: https://mattigaganasindhu-gsm.github.io
+- 📫 matti.gaganasindhu9@gmail.com · [LinkedIn](https://www.linkedin.com/in/gaganasindhu-matti/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools
+`SQL` `Python` `BigQuery` `Power BI` `Tableau` `Looker Studio` `Pandas` `Scikit-learn` `Prophet` `GA4` `Excel`
+
+#### Featured projects
+| Project | What it shows |
+|---|---|
+| [GA4 e-commerce funnel & channel analysis](https://github.com/mattigaganasindhu-gsm/ga4-ecommerce-funnel-analysis) | BigQuery SQL, funnel analysis, channel performance, Looker Studio |
+| [Customer segmentation & retention](https://github.com/mattigaganasindhu-gsm/customer-segmentation-retention) | RFM, K-means clustering, cohort retention (SQL + Python) |
+| [Weekly sales demand forecasting](https://github.com/mattigaganasindhu-gsm/sales-demand-forecasting) | Prophet vs. baselines, holdout testing, MAPE |
+| [Marketing A/B test](https://github.com/mattigaganasindhu-gsm/marketing-ab-test) | Z-test, confidence intervals, power analysis, business impact |
